@@ -1,0 +1,1 @@
+In this project we organize a kindergarten using linked list , structs , comparator , dynamic allocation , pointer to functions & variadic functions .
